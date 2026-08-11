@@ -1,4 +1,4 @@
-git status
+git statuss
 # ☁️ Cloud Data Analytics
 
 A full-stack cloud-based data analytics platform that allows users to upload CSV and Excel datasets, perform data analysis, identify missing values, view summary statistics, and generate interactive visualizations.
